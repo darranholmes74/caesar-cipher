@@ -1,19 +1,22 @@
-LAB - Class 18
-Project: Cryptography
-Author: Darran Holmes
-Links and Resources
-back-end server url (when applicable)
-front-end application (when applicable)
-Setup
-.env requirements (where applicable)
-i.e.
+# LAB - Class 18
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
-Tests
+## Project: Cryptography
+
+## Author: Darran Holmes
+
+
+
+
+How to initialize/run your application
+
+e.g. python3 caesar_cipher/cipher.py.py
+
 How do you run tests?
+
+- pytest tests/test_cipher.py
+
 Any tests of note?
+
 Describe any tests that you did not complete, skipped, etc
+
+- tests 8 and 9 are still not passing yet
